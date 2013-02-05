@@ -1,0 +1,58 @@
+.top_row {
+	margin-top: 52px;
+}
+
+.home_img {
+	margin-right:30px;
+	width: 345px;
+
+}
+
+.center-text {
+	text-align: center;
+}
+
+.right-text {
+	text-align: right;
+}
+
+.margin_left {
+	margin-left:0px;
+}
+
+.pad_top {
+	padding-top:1.25em;
+}
+
+.bborder {
+	border-bottom: #c7c7c7 solid 1px;
+	padding-bottom: 1.25em;
+}
+
+body {
+	background: url("../img/debut_light_@2X_1.png") repeat scroll 0 0 transparent;
+}
+
+#logo {
+	text-indent: -99999px;
+	background: url("../img/logo.png") repeat scroll 0 0 transparent;
+	width: 125px;
+	height: 10px;
+}
+
+.mbottom {
+	margin-bottom: 30px;
+}
+
+.bimg {
+	margin-bottom: 30px;
+	width: 360px;
+}
+
+.control-label {
+	font-weight: bold;
+}
+
+h2, h3 {
+	color: #323232;
+}

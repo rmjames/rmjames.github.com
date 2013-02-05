@@ -1,0 +1,90 @@
+.fieldset_spacer {
+  clear: both;
+}
+#injection_site_holder {
+	display:none;
+}
+#submit-me, #save-me {
+	width:190px;
+	height: 25px;
+	background-color: black;
+	color: white;
+	padding: 5px;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 10px;
+	cursor:pointer;
+}
+#save-me{
+	float: right;
+	margin-right: 200px;
+}
+#save-button-text {
+	margin-left: 25px;
+	margin-top: 2px;
+}
+#upload-button-text {
+	margin-left: 50px;
+	margin-top: 2px;
+}
+#submission-content {
+	width: auto;
+	height: auto;
+}
+#display-style-grid {
+	text-align: top;
+	border: solid black;
+	width: 780px;
+	height: auto;
+	margin:0;
+	padding: 0;
+	float: left;
+}
+#look-holder {
+	margin:0;
+	padding:0;
+}
+#style-pitch{
+	float:left; clear:both;
+}
+
+#grid-main-style {
+	width: 595px;
+	height: 590px;
+	float: left;
+	clear:both;
+	border: dotted gray 2px;;
+	background-color: #F8F8F8;
+}
+#main-grid-item{
+	border: none;
+}
+#accessory-list {
+	width: 180px;
+	float: right;
+	padding:0;
+	margin:0;
+}
+
+#accessory-list ul {
+	padding: 0;
+	margin:0;
+	width: 180px;
+	height: auto;
+}
+#accessory-list li {
+margin: 0;
+list-style-type:none; 
+display: inline;
+padding: 0;
+width:180px;
+height:180px;
+clear: both;
+}
+
+#accessory-list ul li a{
+padding: 0;
+text-decoration: none;
+}
+#build-style-grid {float:right;width:300px;height: 150px;border:solid 2px gray;padding:10px;margin-top: 150px;margin-right:75px;}
+#grid-form {margin-top: 15px;margin-left:35px;}
